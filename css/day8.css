@@ -1,0 +1,129 @@
+body{
+    font-family: 'Amatic SC', cursive;
+}
+
+
+header{
+    height: 100px;
+    background-color: green;
+    
+}
+.logo{
+    padding-left: 0 70px;
+    float:left;
+    margin-left: 10px;
+}
+.logo h1{
+    font-size:3em;
+    margin:0;
+}
+header ul li{
+    color: black;
+    list-style-type: none;
+    float:right;
+    margin: 0 4px 0 9px;
+    font-size:1em
+}
+header ul{
+    padding:10px 0 10px 0;
+}
+
+
+
+
+
+.box-3 {
+    height:300px;
+    width: 100%;
+    background-color: green;
+    clear: both;
+    font-size: 70px;
+    padding-top: 10px;
+    
+    
+}
+.box-44{
+    height:250px;
+    width:100%;
+    background-color:black;
+    clear:both;
+    color: white;
+    font-size: x-large;
+    
+}
+
+
+
+
+
+.box-4 {
+    height: 300px;
+    width: 100%;
+    background-color: green;
+    clear: both;
+}
+.sub-box-4 {
+    height:200px;
+    width:100%;
+    background-color: green;
+    margin: 0px auto 0px;
+}
+
+.sub-box-6{
+    height: 100%;
+    width: 30%;
+    background-color: black;
+    margin: 0px 1% ;
+    float: left;
+    
+}
+
+.sub-box-7{
+    height: 100%;
+    width: 30%;
+    background-color: black;
+    margin:0% 4px;
+    float: left;
+
+}
+
+.box-8{
+    height: 100px;
+    width:30%;
+    background-color:black;
+}
+
+#contact{
+    height: 400px;
+    background-color:black;
+    margin: 5px auto 5px;
+}
+
+.form-box{
+    background-color:green;
+    height: 400px;
+    width: 50%;
+    margin: 0px auto 0px;
+}
+
+#name{
+    height: 40px;
+    width: 150px;
+    margin: 15px 30%;
+}
+
+#email{
+    height: 50px;
+    width: 150px;
+    margin: 15px 30%;
+    
+}
+
+
+
+
+
+
+
+
+

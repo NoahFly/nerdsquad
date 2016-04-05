@@ -1,0 +1,51 @@
+.box-1 {
+box-1{   
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.box-2 {
+    height: 300px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+
+.box-3{
+    height: 100px;
+    width: 600px;
+    background-color: green;
+    clear: both;
+}
+.sub-box-1{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    margin: 25px 0px 0px 50px;
+}
+.box-1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.box-2 {
+    height: 300px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+
+.box-3{
+    height: 100px;
+    width: 600px;
+    background-color: green;
+    clear: both;
+}
+.sub-box-1{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    margin: 25px 0px 0px 50px;
+}
