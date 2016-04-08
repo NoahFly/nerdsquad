@@ -1,5 +1,6 @@
 body{
     font-family: 'Amatic SC', cursive;
+    margin:0px;
 }
 
 
@@ -22,7 +23,8 @@ header ul li{
     list-style-type: none;
     float:right;
     margin: 0 4px 0 9px;
-    font-size:1em
+    font-size:1em;
+    padding: 10px;
 }
 header ul{
     padding:10px 0 10px 0;
@@ -35,7 +37,7 @@ header ul{
 .box-3 {
     height:300px;
     width: 100%;
-    background-color: green;
+    background:url("../img/trees2.jpg")center fixed;
     clear: both;
     font-size: 70px;
     padding-top: 10px;
@@ -49,6 +51,7 @@ header ul{
     clear:both;
     color: white;
     font-size: x-large;
+    
     
 }
 
@@ -77,6 +80,7 @@ header ul{
     float: left;
     color:white;
     font-size: x-large;
+    padding:10px;
     
 }
 
@@ -88,47 +92,45 @@ header ul{
     float: left;
     color: white;
     font-size: x-large;
+    padding:10px;
 
 }
 
-.box-8{
-    height: 100px;
-    width:30%;
-    background-color:black;
+
+   
 }
 
 #contact{
     height: 400px;
     background-color:black;
-    margin: 5px auto 5px;
+    
+    
+   
 }
 
 .form-box{
     background-color:black;
     height: 400px;
-    width: 50%;
-    margin: 0px auto 0px;
+    width: 100%;
+    float:left;
+    background:url("../img/trees2.jpg")center fixed;
+    
 }
 
 #name{
     height: 40px;
     width: 150px;
-    margin: 15px 30%;
+    padding:10px;
 }
 
 #email{
-    height: 50px;
-    width: 150px;
-    margin: 15px 30%;
-    float: right;
-    
+   height:40px;
+   width: 150px;
+   padding:10px;
 }
 
 
-.box-66{
-    width: 100%;
-    height: 200px;
-    background-color: black;
+
 }
 footer ul{
     background-color: green;
@@ -136,7 +138,10 @@ footer ul{
     width: 100%
 }
     
-
+div p{
+    padding:20px;
+    margin:0;
+}
 
 
 
